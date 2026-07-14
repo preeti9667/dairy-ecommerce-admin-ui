@@ -66,7 +66,7 @@ admin/
 ## 🚀 Getting Started
 
 ```bash
-git clone <repository-url>
+git clone <https://github.com/preeti9667/dairy-ecommerce-admin-ui.git>
 
 cd dairy-ecommerce-admin-ui
 
