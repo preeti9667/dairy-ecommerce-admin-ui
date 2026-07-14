@@ -1,36 +1,90 @@
-This is a [Next.js](https://nextjs.org/) project bootstrapped with [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
+# 🥛 Dairy E-commerce Admin Dashboard (Frontend)
 
-## Getting Started
+A responsive admin dashboard UI built using Next.js, React, and TypeScript for managing an online dairy products store.
 
-First, run the development server:
+This project focuses on frontend development and demonstrates modern UI design, reusable components, routing, form handling, and state management.
 
-```bash
-npm run dev
-# or
-yarn dev
-# or
-pnpm dev
-# or
-bun dev
+> **Note:** This is a frontend-only project. Backend APIs and database integration are not included.
+
+---
+
+## ✨ Features
+
+- Admin Login UI
+- Dashboard
+- Product Management UI
+- Category Management UI
+- Brand Management UI
+- Banner Management UI
+- Offer Management UI
+- Order Management UI
+- Payment Management UI
+- User Management UI
+- Website Content Management UI
+- System Settings UI
+- Responsive Design
+
+---
+
+## 🛠 Tech Stack
+
+- Next.js 14
+- React.js
+- TypeScript
+- Material UI (MUI)
+- Redux Toolkit
+- React Redux
+- React Hook Form
+- Formik
+- Yup
+- Styled Components
+
+---
+
+## 📂 Folder Structure
+
+```
+admin/
+├── dashboard
+├── products
+├── categories
+├── brands
+├── banner
+├── offers
+├── offerSetting
+├── orders
+├── payments
+├── users
+├── content
+├── sidebar
+├── login
+└── system
 ```
 
-Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+---
 
-You can start editing the page by modifying `app/page.tsx`. The page auto-updates as you edit the file.
+## 🚀 Getting Started
 
-This project uses [`next/font`](https://nextjs.org/docs/basic-features/font-optimization) to automatically optimize and load Inter, a custom Google Font.
+```bash
+git clone <repository-url>
 
-## Learn More
+cd dairy-ecommerce-admin-ui
 
-To learn more about Next.js, take a look at the following resources:
+npm install
 
-- [Next.js Documentation](https://nextjs.org/docs) - learn about Next.js features and API.
-- [Learn Next.js](https://nextjs.org/learn) - an interactive Next.js tutorial.
+npm run dev
+```
 
-You can check out [the Next.js GitHub repository](https://github.com/vercel/next.js/) - your feedback and contributions are welcome!
+Open:
 
-## Deploy on Vercel
+```
+http://localhost:3000
+```
 
-The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+---
 
-Check out our [Next.js deployment documentation](https://nextjs.org/docs/deployment) for more details.
+## 👩‍💻 Developed By
+
+Preeti Saini
+
+Frontend Developer
